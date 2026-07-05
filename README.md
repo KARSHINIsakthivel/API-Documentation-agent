@@ -261,9 +261,7 @@ Through this project you will learn:
 
 **Karshini Sakthivel**
 
-B.Tech Information Technology
 
-AI & Full Stack Developer
 
 ---
 
