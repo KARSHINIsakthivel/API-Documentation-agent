@@ -1,0 +1,6 @@
+{
+  "name": "API Documentation Agent",
+  "description": "An interactive, beginner-friendly workspace to build, test, and learn how to create an AI-powered API documentation search and chat assistant using Flask, SQLite, and Google Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
